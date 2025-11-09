@@ -8,9 +8,6 @@
     "react-scripts": "5.0.1",
     "lucide-react": "^0.263.1"
   },
-  "devDependencies": {
-    "typescript": "^4.9.5"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
